@@ -6,5 +6,9 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'AngularBasic';
+  selectedOption: string = 'option1'; // Default selected option
+
+  selectOption(option: string) {
+    this.selectedOption = option;
+  }
 }
