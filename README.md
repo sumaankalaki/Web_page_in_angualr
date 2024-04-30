@@ -1,3 +1,4 @@
+THIS IS SIMPLE LOGIN PAGE REGISTER PAGE AND HOME PAGE web application
 # AngularBasic
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.0.
